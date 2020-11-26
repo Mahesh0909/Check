@@ -1,0 +1,8 @@
+---
+name: Test9
+hosts: localhost
+vars:
+  fruit: Bannana
+  
+ tasks
+    
